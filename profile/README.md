@@ -1,7 +1,1 @@
-<div align="center">
-  <a href="https://github.com/wtm-international">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wtm-international&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtm-international&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+** WTM International **
